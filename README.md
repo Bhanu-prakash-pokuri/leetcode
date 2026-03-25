@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
