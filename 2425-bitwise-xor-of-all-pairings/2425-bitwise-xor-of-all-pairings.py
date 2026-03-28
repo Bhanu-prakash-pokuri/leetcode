@@ -4,9 +4,9 @@ class Solution:
         x2=0
         if len(nums1)%2!=0:
             for i in nums2:
-                x2 ^= i
+                x2^= i
         if len(nums2)%2!=0:
             for i in nums1:
-                x1 ^= i
+                x1^= i
         return x1^x2
         
