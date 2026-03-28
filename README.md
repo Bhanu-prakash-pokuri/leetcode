@@ -14,12 +14,14 @@
 | [0503-next-greater-element-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0735-asteroid-collision) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0001-two-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
+| [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0014-longest-common-prefix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0020-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Brainteaser
 |  |
 | ------- |
