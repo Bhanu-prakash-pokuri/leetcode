@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -66,6 +68,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0075-sort-colors) |
 ## Sorting
@@ -102,6 +105,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Simulation
@@ -117,6 +121,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
