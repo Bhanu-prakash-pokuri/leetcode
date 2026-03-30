@@ -46,6 +46,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -114,6 +116,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
