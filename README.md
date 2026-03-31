@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -126,12 +127,14 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
