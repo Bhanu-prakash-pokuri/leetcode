@@ -56,6 +56,7 @@
 | [0014-longest-common-prefix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0115-distinct-subsequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
@@ -139,6 +140,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
