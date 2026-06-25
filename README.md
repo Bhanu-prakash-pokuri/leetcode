@@ -23,6 +23,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Hash Table
@@ -34,6 +35,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Linked List
 |  |
@@ -118,6 +120,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,4 +169,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
