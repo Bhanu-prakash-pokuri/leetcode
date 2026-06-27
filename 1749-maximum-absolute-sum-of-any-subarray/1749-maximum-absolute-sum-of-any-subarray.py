@@ -1,0 +1,16 @@
+class Solution:
+    def maxAbsoluteSum(self, nums: List[int]) -> int:
+        currmax=0
+        currmin=0
+        max_sum=float('-INF')
+        min_sum=float('INF')
+        n=len(nums)
+        total=sum(nums)
+        for i in range(n):
+            currmax=nums[i] if nums[i]>currmax+nums[i] else currmax+nums[i]
+            max_sum=max(currmax,max_sum)
+            currmin=nums[i] if nums[i]<currmin+nums[i] else currmin+nums[i]
+            min_sum=min(currmin,min_sum)
+        return max(max_sum,abs(min_sum))
+        
+        
