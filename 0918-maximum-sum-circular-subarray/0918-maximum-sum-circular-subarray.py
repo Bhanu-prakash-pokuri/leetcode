@@ -7,15 +7,10 @@ class Solution:
         n=len(nums)
         total=sum(nums)
         for i in range(n):
-            currmax=max(nums[i],currmax+nums[i])
+            currmax=nums[i] if nums[i]>currmax+nums[i] else currmax+nums[i]
             max_sum=max(currmax,max_sum)
-            
-
-        
-            currmin=min(nums[i],currmin+nums[i])
+            currmin=nums[i] if nums[i]<currmin+nums[i] else currmin+nums[i]
             min_sum=min(currmin,min_sum)
-            
-
         if max_sum<0:
             return max_sum
         return max(max_sum,total-min_sum)
