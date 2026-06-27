@@ -23,6 +23,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -155,6 +156,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0169-majority-element) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0053-maximum-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,4 +185,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
