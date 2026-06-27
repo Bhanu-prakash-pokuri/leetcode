@@ -11,7 +11,7 @@ class Solution:
             max_sum=max(currmax,max_sum)
             
 
-        for i in range(n):
+        
             currmin=min(nums[i],currmin+nums[i])
             min_sum=min(currmin,min_sum)
             
