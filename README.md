@@ -38,6 +38,7 @@
 | [0141-linked-list-cycle](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0763-partition-labels) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0202-happy-number) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Recursion
@@ -110,6 +112,7 @@
 | [0075-sort-colors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0283-move-zeroes) |
 | [0763-partition-labels](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0763-partition-labels) |
