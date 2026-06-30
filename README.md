@@ -52,6 +52,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0075-sort-colors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0283-move-zeroes) |
 | [0763-partition-labels](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0763-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
