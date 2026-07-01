@@ -18,8 +18,8 @@ class Solution:
                 y.next=temp
                 y=y.next
             temp=temp.next
-        l.next=b.next
         y.next=None
+        l.next=b.next
         return s.next
             
 
