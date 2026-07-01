@@ -55,6 +55,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0086-partition-list) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0234-palindrome-linked-list) |
