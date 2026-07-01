@@ -6,15 +6,12 @@
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         s1, s2 = [], []
-
         while l1:
             s1.append(l1)
-            l1 = l1.next
-        
+            l1 = l1.next 
         while l2:
             s2.append(l2)
             l2 = l2.next
-
         prev = None
         
         carry = 0
