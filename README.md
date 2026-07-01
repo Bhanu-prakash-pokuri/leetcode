@@ -69,6 +69,7 @@
 | [0328-odd-even-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
