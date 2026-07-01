@@ -72,6 +72,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0283-move-zeroes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0283-move-zeroes) |
 | [0763-partition-labels](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
