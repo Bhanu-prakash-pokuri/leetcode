@@ -138,6 +138,7 @@
 | [0735-asteroid-collision](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -213,6 +214,7 @@
 | [0042-trapping-rain-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -276,4 +278,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
