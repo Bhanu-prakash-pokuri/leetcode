@@ -29,6 +29,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
@@ -110,6 +111,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Trie
@@ -135,6 +137,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
