@@ -4,10 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        res, o = [], 0
+        a=""
+        o=0
         for c in s:
-            if c == '(' and o > 0: res.append(c)
-            if c == ')' and o > 1: res.append(c)
+            if c == '(' and o > 0: 
+                a+=c
+            if c == ')' and o > 1: 
+                a+=c
             o += 1 if c == '(' else -1
-        return "".join(res)
+        return a
+
+        
         
