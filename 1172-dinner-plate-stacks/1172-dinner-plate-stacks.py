@@ -1,51 +1,33 @@
 class DinnerPlates:
 
     def __init__(self, capacity: int):
-        self.capacity = capacity
+        self.c = capacity
+        self.q = [] 
         self.stacks = []
-        self.available = []
 
     def push(self, val: int) -> None:
-        while self.available and (
-            self.available[0] >= len(self.stacks) or
-            len(self.stacks[self.available[0]]) == self.capacity
-        ):
-            heappop(self.available)
+        while self.q and self.q[0] < len(self.stacks) and len(self.stacks[self.q[0]]) == self.c:
+            heapq.heappop(self.q)
 
-        if not self.available:
+
+        if not self.q:
+            heapq.heappush(self.q, len(self.stacks))
+
+        if self.q[0] == len(self.stacks):
             self.stacks.append([])
-            heappush(self.available, len(self.stacks) - 1)
 
-        idx = heappop(self.available)
-        self.stacks[idx].append(val)
-
-        if len(self.stacks[idx]) < self.capacity:
-            heappush(self.available, idx)
+        self.stacks[self.q[0]].append(val)
         
     def pop(self) -> int:
         while self.stacks and not self.stacks[-1]:
             self.stacks.pop()
-
-        if not self.stacks:
-            return -1
-
-        idx = len(self.stacks) - 1
-        val = self.stacks[idx].pop()
-
-        heappush(self.available, idx)
-
-        while self.stacks and not self.stacks[-1]:
-            self.stacks.pop()
-
-        return val
+        return self.popAtStack(len(self.stacks) - 1)
         
     def popAtStack(self, index: int) -> int:
-        if index >= len(self.stacks) or not self.stacks[index]:
-            return -1
-        val = self.stacks[index].pop()
-        heappush(self.available, index)
-
-        return val
+        if 0 <= index < len(self.stacks) and self.stacks[index]:
+            heapq.heappush(self.q, index)
+            return self.stacks[index].pop()
+        return -1
         
 
 
