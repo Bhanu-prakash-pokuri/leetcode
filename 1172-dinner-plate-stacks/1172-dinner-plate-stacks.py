@@ -8,8 +8,6 @@ class DinnerPlates:
     def push(self, val: int) -> None:
         while self.q and self.q[0] < len(self.stacks) and len(self.stacks[self.q[0]]) == self.c:
             heapq.heappop(self.q)
-
-
         if not self.q:
             heapq.heappush(self.q, len(self.stacks))
 
