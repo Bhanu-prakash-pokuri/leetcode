@@ -132,6 +132,7 @@
 | [0143-reorder-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
@@ -272,6 +273,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -292,6 +294,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
