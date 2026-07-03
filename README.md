@@ -53,6 +53,7 @@
 | [0895-maximum-frequency-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1172-dinner-plate-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
@@ -148,6 +149,7 @@
 | [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1172-dinner-plate-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1172-dinner-plate-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1172-dinner-plate-stacks) |
 ## Merge Sort
 |  |
 | ------- |
@@ -302,6 +305,7 @@
 | [0895-maximum-frequency-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0933-number-of-recent-calls) |
+| [1172-dinner-plate-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1172-dinner-plate-stacks) |
 ## Data Stream
 |  |
 | ------- |
