@@ -31,6 +31,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
@@ -144,6 +145,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0735-asteroid-collision](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
 | ------- |
