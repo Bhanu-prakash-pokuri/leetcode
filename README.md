@@ -50,6 +50,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0763-partition-labels) |
+| [0895-maximum-frequency-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -143,6 +144,7 @@
 | [0735-asteroid-collision](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0856-score-of-parentheses) |
+| [0895-maximum-frequency-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -297,6 +299,7 @@
 | [0155-min-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0895-maximum-frequency-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -304,4 +307,8 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0933-number-of-recent-calls) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
