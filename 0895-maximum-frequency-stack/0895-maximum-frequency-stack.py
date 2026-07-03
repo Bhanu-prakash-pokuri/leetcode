@@ -1,21 +1,21 @@
 class FreqStack:
 
     def __init__(self):
-        self.stks = []
+        self.s = []
         self.freq = defaultdict(int)
 
     def push(self, val: int) -> None:
         self.freq[val] += 1
-        if self.freq[val] > len(self.stks):
-            self.stks.append([val])
+        if self.freq[val] > len(self.s):
+            self.s.append([val])
         else:
-            self.stks[self.freq[val]-1].append(val)
+            self.s[self.freq[val]-1].append(val)
         
 
     def pop(self) -> int:
-        val = self.stks[-1].pop()
-        if not self.stks[-1]:
-            self.stks.pop()
+        val = self.s[-1].pop()
+        if not self.s[-1]:
+            self.s.pop()
         self.freq[val] -= 1
         return val
 
