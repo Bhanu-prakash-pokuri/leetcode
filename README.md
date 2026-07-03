@@ -271,6 +271,7 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
@@ -289,8 +290,10 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
