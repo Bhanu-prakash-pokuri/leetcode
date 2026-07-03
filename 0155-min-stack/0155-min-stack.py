@@ -9,12 +9,12 @@ class MinStack:
 
         if not self.minstack or val <= self.minstack[-1]:
             self.minstack.append(val)
-        else:
-            self.minstack.append(self.minstack[-1])
+        
 
     def pop(self) -> None:
-        self.stack.pop()
-        self.minstack.pop()
+        t=self.stack.pop()
+        if t==self.minstack[-1]:
+            self.minstack.pop()
 
     def top(self) -> int:
         return self.stack[-1]
