@@ -30,6 +30,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -80,6 +81,7 @@
 | [0445-add-two-numbers-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
@@ -151,6 +153,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1172-dinner-plate-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -306,13 +309,19 @@
 | [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1172-dinner-plate-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1172-dinner-plate-stacks) |
+| [1472-design-browser-history](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1472-design-browser-history) |
 ## Ordered Set
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0895-maximum-frequency-stack) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
