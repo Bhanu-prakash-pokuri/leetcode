@@ -14,5 +14,5 @@ class Solution:
             return (helper(node.left,left,node.val)
                 and
                 helper(node.right,node.val,right))
-        return helper(root,float("-INF"),float("INF"))
+        return helper(root,float("-inf"),float("inf"))
         
