@@ -189,16 +189,19 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search
 |  |
@@ -331,4 +334,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
