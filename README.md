@@ -206,6 +206,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
@@ -238,6 +239,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search
 |  |
@@ -373,6 +375,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
