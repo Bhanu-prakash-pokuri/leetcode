@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0169-majority-element) |
@@ -197,6 +198,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0113-path-sum-ii) |
@@ -232,6 +234,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0113-path-sum-ii) |
@@ -294,6 +297,7 @@
 | [0053-maximum-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -379,6 +383,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
