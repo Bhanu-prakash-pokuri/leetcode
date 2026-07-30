@@ -206,6 +206,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search
 |  |
 | ------- |
@@ -375,6 +378,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0112-path-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Backtracking
 |  |
 | ------- |
