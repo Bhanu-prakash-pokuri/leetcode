@@ -126,6 +126,7 @@
 | [0856-score-of-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -320,6 +321,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Bit Manipulation
 |  |
