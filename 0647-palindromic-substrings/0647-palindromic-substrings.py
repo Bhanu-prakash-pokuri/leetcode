@@ -11,7 +11,7 @@ class Solution:
             return res
             
         for i in range(len(s)):
-            count += expand(i, i)     # Odd
-            count += expand(i, i + 1) # Even
+            count += expand(i, i)
+            count += expand(i, i + 1)
             
         return count
