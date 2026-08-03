@@ -252,6 +252,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -439,6 +440,7 @@
 | [0112-path-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0322-coin-change) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -463,4 +465,9 @@
 | [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
