@@ -38,6 +38,7 @@
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1472-design-browser-history) |
@@ -67,6 +68,7 @@
 | [0895-maximum-frequency-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
 | [1172-dinner-plate-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -455,4 +457,8 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0063-unique-paths-ii) |
 | [0174-dungeon-game](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0174-dungeon-game) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
