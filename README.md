@@ -34,6 +34,7 @@
 | [0682-baseball-game](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0735-asteroid-collision) |
+| [0823-binary-trees-with-factors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -62,6 +63,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0763-partition-labels](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0763-partition-labels) |
+| [0823-binary-trees-with-factors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0895-maximum-frequency-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -208,6 +210,7 @@
 | [0075-sort-colors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0169-majority-element) |
+| [0823-binary-trees-with-factors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0823-binary-trees-with-factors) |
 ## Tree
 |  |
 | ------- |
@@ -346,6 +349,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0647-palindromic-substrings) |
+| [0823-binary-trees-with-factors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
