@@ -20,7 +20,8 @@ class Solution:
         # using bfs
         start, m, n = image[sr][sc], len(image), len(image[0])
         if start != color: 
-            q = deque([(sr, sc)])
+            q = deque()
+            q.append((sr,sc))
             while q:
                 i, j = q.popleft()
                 image[i][j] = color
