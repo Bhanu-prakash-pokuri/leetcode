@@ -254,6 +254,7 @@
 | [0207-course-schedule](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0733-flood-fill) |
@@ -447,6 +448,7 @@
 | [0112-path-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -479,6 +481,7 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0310-minimum-height-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -498,4 +501,5 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
