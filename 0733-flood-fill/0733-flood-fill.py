@@ -1,5 +1,6 @@
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+        #using dfs
         # old = image[sr][sc]
         # if old == color:
         #     return image
@@ -16,9 +17,10 @@ class Solution:
         # dfs(sr, sc)
         # return image
 
+        # using bfs
         old, m, n = image[sr][sc], len(image), len(image[0])
         if old != color: 
-            q = collections.deque([(sr, sc)])
+            q = deque([(sr, sc)])
             while q:
                 i, j = q.popleft()
                 image[i][j] = color
