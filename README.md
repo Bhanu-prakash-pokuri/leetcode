@@ -44,6 +44,7 @@
 | [0994-rotting-oranges](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
@@ -75,6 +76,7 @@
 | [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
 | [1172-dinner-plate-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1172-dinner-plate-stacks) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Linked List
@@ -217,6 +219,7 @@
 | [0147-insertion-sort-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0169-majority-element) |
 | [0823-binary-trees-with-factors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0823-binary-trees-with-factors) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 ## Tree
 |  |
 | ------- |
@@ -459,6 +462,7 @@
 | [0743-network-delay-time](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0994-rotting-oranges) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
@@ -492,6 +496,7 @@
 | [0743-network-delay-time](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
