@@ -266,6 +266,7 @@
 | [0310-minimum-height-trees](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -462,6 +463,7 @@
 | [0207-course-schedule](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -502,6 +504,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0310-minimum-height-trees) |
+| [0684-redundant-connection](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
@@ -514,6 +517,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
