@@ -50,6 +50,7 @@
 | [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
@@ -464,6 +465,7 @@
 | [0994-rotting-oranges](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0994-rotting-oranges) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
@@ -488,6 +490,7 @@
 | [0200-number-of-islands](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0994-rotting-oranges) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
 |  |
 | ------- |
