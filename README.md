@@ -66,6 +66,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -147,6 +148,7 @@
 | [0072-edit-distance](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -467,6 +469,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0207-course-schedule) |
@@ -554,5 +557,6 @@
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
