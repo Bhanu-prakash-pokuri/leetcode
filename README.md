@@ -38,6 +38,7 @@
 | [0721-accounts-merge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0735-asteroid-collision) |
+| [0752-open-the-lock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0815-bus-routes) |
 | [0823-binary-trees-with-factors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -73,6 +74,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0763-partition-labels) |
 | [0815-bus-routes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0815-bus-routes) |
 | [0823-binary-trees-with-factors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0823-binary-trees-with-factors) |
@@ -150,6 +152,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0647-palindromic-substrings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0856-score-of-parentheses) |
@@ -472,6 +475,7 @@
 | [0721-accounts-merge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0752-open-the-lock) |
 | [0797-all-paths-from-source-to-target](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0815-bus-routes) |
 | [0994-rotting-oranges](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0994-rotting-oranges) |
@@ -544,4 +548,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0743-network-delay-time) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
