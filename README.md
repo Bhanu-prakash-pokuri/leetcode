@@ -32,6 +32,7 @@
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0636-exclusive-time-of-functions](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -76,6 +77,7 @@
 | [0202-happy-number](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0763-partition-labels) |
@@ -331,6 +333,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
