@@ -44,6 +44,7 @@
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
@@ -82,6 +83,7 @@
 | [0823-binary-trees-with-factors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [0895-maximum-frequency-stack](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0997-find-the-town-judge) |
 | [1172-dinner-plate-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1172-dinner-plate-stacks) |
@@ -320,6 +322,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -329,6 +332,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Stack
 |  |
