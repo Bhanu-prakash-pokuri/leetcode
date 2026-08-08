@@ -59,6 +59,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Hash Table
@@ -432,6 +433,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0743-network-delay-time](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0743-network-delay-time) |
 | [1172-dinner-plate-stacks](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1172-dinner-plate-stacks) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Merge Sort
 |  |
 | ------- |
@@ -496,6 +498,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Backtracking
 |  |
 | ------- |
@@ -522,6 +525,7 @@
 | [0994-rotting-oranges](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Graph Theory
 |  |
 | ------- |
@@ -535,6 +539,7 @@
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Union-Find
 |  |
 | ------- |
@@ -557,13 +562,19 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0743-network-delay-time) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0743-network-delay-time) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Bidirectional Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0752-open-the-lock) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
