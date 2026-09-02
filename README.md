@@ -581,4 +581,8 @@
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
