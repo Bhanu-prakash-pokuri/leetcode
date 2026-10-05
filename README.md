@@ -59,6 +59,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -133,6 +134,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -590,4 +592,16 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
