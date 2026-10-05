@@ -368,6 +368,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -399,6 +400,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0191-number-of-1-bits) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Brainteaser
