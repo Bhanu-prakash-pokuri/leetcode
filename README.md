@@ -403,6 +403,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0338-counting-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Brainteaser
