@@ -390,6 +390,7 @@
 | [0152-maximum-product-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0174-dungeon-game) |
 | [0322-coin-change](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0338-counting-bits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0647-palindromic-substrings) |
@@ -401,6 +402,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0338-counting-bits) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2564-substring-xor-queries](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2564-substring-xor-queries) |
 ## Brainteaser
