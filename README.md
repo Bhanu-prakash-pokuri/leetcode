@@ -61,6 +61,7 @@
 | [1598-crawler-log-folder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -249,6 +250,7 @@
 | [0721-accounts-merge](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0721-accounts-merge) |
 | [0823-binary-trees-with-factors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0823-binary-trees-with-factors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Tree
 |  |
 | ------- |
@@ -431,6 +433,7 @@
 | [0011-container-with-most-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0011-container-with-most-water) |
 | [0763-partition-labels](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
 |  |
 | ------- |
@@ -621,4 +624,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
