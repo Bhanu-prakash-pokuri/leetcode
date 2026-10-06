@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0063-unique-paths-ii) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0127-word-ladder) |
@@ -155,6 +157,7 @@
 | [0014-longest-common-prefix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0091-decode-ways) |
@@ -238,6 +241,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0147-insertion-sort-list) |
