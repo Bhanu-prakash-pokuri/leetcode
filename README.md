@@ -43,6 +43,7 @@
 | [0752-open-the-lock](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0815-bus-routes) |
 | [0823-binary-trees-with-factors](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0823-binary-trees-with-factors) |
+| [0867-transpose-matrix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0909-snakes-and-ladders](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -356,6 +357,7 @@
 | [0682-baseball-game](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0867-transpose-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -532,6 +534,7 @@
 | [0200-number-of-islands](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Bhanu-prakash-pokuri/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
