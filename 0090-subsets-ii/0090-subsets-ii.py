@@ -4,14 +4,14 @@ class Solution:
         n=len(nums)
         def s(temp,i):
             if i>=n:
-                p=temp[:]
-                p.sort()
-                if p not in res:
-                    res.append(p)
+                res.append(list(temp))
                 return
             temp.append(nums[i])
             s(temp,i+1)
             temp.pop()
+            while i+1<n and nums[i]==nums[i+1]:
+                i+=1
             s(temp,i+1)
+        nums.sort()
         s([],0)
         return res
